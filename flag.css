@@ -1,0 +1,27 @@
+.backdrop{
+    width: 1000px;
+    height: 600px;
+    background-color: khaki;
+}
+.green {
+    width: 50px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+}
+.white {
+    width: 50px;
+    height: 100px;
+    background-color: ivory;
+    display: inline-block;
+    margin: 0PX;
+    position: relative; RIGHT: 5PX;
+
+}
+.orgen {
+    width: 50px;
+    height: 100px;
+    background-color: orange;
+    display: inline-block;
+    position: relative;right: 10px
+}
